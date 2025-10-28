@@ -10,7 +10,7 @@
 # Matemática → transformadas de Fourier, equações diferenciais.
 # Ciência de dados → processamento de sinais, som e imagem.
 
-print("===== NÚMEROS COMPLEXOS =====")
+print("====== NÚMEROS COMPLEXOS ======")
 
 # 1e10 significa "1 vezes 10 elevado a 10" (notação científica).
 # Muito usado para números muito grandes ou muito pequenos em ciência.
