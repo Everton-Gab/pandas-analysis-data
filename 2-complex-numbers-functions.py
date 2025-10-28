@@ -57,4 +57,4 @@ def potencia(base, expoente=2):
 
 # Exemplo de uso
 print("Potência 3² =", potencia(3))      # usa valor padrão (expoente=2) -> 9
-print("Potência 2^5 =", potencia(2, 5))  # sobrescreve o valor padrão -> 32
+print("Potência 2^5 =", potencia(2, 5))  # sobrescreve o valor padrão ->  32
